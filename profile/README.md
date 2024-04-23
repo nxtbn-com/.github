@@ -35,7 +35,7 @@ We welcome contributions and feedback! Here's how you can get involved:
 - **Join the Discussion**: Engage with other developers and users on our [Community Forum](#).
 
 ## 📄 License
-nxtbn is licensed under the [BSD-3 License](#),  allowing you to use, modify, and distribute the software freely with appropriate attribution and without additional restrictions.
+nxtbn is licensed under the [BSD-3 License](https://github.com/nxtbn-com/nxtbn?tab=BSD-3-Clause-1-ov-file),  allowing you to use, modify, and distribute the software freely with appropriate attribution and without additional restrictions.
 
 ## 📧 Contact Us
 Need more information or support? Reach out to our team at [support@bytenyx.com](mailto:support@bytenyx.com).

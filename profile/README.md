@@ -20,6 +20,9 @@ Welcome to **Next Billion Native Commerce (nxtbn)**, the ultimate solution for b
 - **Open-Source & Free**: nxtbn is accessible to everyone, with no licensing fees or restrictions.
 - **Developed by Industry Veterans**: Created by experts with years of experience in E-commerce and software development.
 - **Flexible Integration**: Seamlessly integrates with your existing ecosystem.
+- **Built with Django**: If you're familiar with Python and Django, nxtbn is a breeze to work with. You can seamlessly develop and manage your E-commerce platform without the need to learn new technologies.
+- **No-Code Management**: If you're not a technical person, that's fine—nxtbn allows you to deploy and manage your E-commerce platform without writing a single line of code. It's designed to be user-friendly and intuitive.
+
 
 ## 🚀 Getting Started
 Ready to start? Here's what you need to do:

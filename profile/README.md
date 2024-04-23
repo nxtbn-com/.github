@@ -34,8 +34,8 @@ Ready to start? Here's what you need to do:
 ## 👥 Join the Community
 We welcome contributions and feedback! Here's how you can get involved:
 - **Contribute to the Code**: Check out our [Contribution Guidelines](#).
-- **Report Issues**: Found a bug or have a suggestion? [Open an Issue](#).
-- **Join the Discussion**: Engage with other developers and users on our [Community Forum](#).
+- **Report Issues**: Found a bug or have a suggestion? [Open an Issue](https://github.com/nxtbn-com/nxtbn/issues).
+- **Join the Discussion**: Engage with other developers and users on our [Community Forum](https://github.com/orgs/nxtbn-com/discussions).
 
 ## 📄 License
 nxtbn is licensed under the [BSD-3 License](https://github.com/nxtbn-com/nxtbn?tab=BSD-3-Clause-1-ov-file),  allowing you to use, modify, and distribute the software freely with appropriate attribution and without additional restrictions.

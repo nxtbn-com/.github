@@ -38,7 +38,7 @@ We welcome contributions and feedback! Here's how you can get involved:
 nxtbn is licensed under the [BSD-3 License](#),  allowing you to use, modify, and distribute the software freely with appropriate attribution and without additional restrictions.
 
 ## 📧 Contact Us
-Need more information or support? Reach out to our team at [support@nxtbn.com](mailto:support@bytenyx.com).
+Need more information or support? Reach out to our team at [support@nbytenyx.com](mailto:support@bytenyx.com).
 
 ---
 

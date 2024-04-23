@@ -9,6 +9,12 @@ Welcome to **Next Billion Native Commerce (nxtbn)**, the ultimate solution for b
 - **Cloud-Native & Platform-Independent**: Deploy on any major cloud platform without vendor lock-ins.
 - **SEO-Friendly**: Improve visibility with SEO-optimized architecture.
 - **Security & Performance**: Enjoy fast loading times and robust security features.
+- **Pluggable Architecture**: nxtbn's pluggable architecture allows you to safely install or develop plugins, giving you flexibility and customization options.
+- **Templating System**: Choose from a wide selection of open-source themes or create your own. nxtbn makes it easy to add, remove, or develop custom themes.
+- **Git-Friendly**: Each part of nxtbn—plugins, templates, and the main codebase—can be managed with Git, providing a modular architecture that simplifies version control and collaboration.
+- **Elasticsearch Integration**: Experience fast and efficient search with Elasticsearch, enhancing the user experience for your customers.
+- **Social Media Authentication & More**: Includes built-in support for social media authentication, OTP, SMS gateway, email SMTP, push notifications, and marketing tools, so you don't need to reinvent the wheel.
+
 
 ## 💡 Why nxtbn?
 - **Open-Source & Free**: nxtbn is accessible to everyone, with no licensing fees or restrictions.

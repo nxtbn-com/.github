@@ -11,7 +11,8 @@ Welcome to **Next Billion Native Commerce (nxtbn)**, the ultimate solution for b
 - **Security & Performance**: Enjoy fast loading times and robust security features.
 - **Pluggable Architecture**: nxtbn's pluggable architecture allows you to safely install or develop plugins, giving you flexibility and customization options.
 - **Templating System**: Choose from a wide selection of open-source themes or create your own. nxtbn makes it easy to add, remove, or develop custom themes.
-- **Jinja Templates and REST API Ready**: nxtbn supports both Jinja templates and REST APIs, allowing you to keep the frontend separate. You can integrate with Next.js, Nuxt.js, Gatsby, and other SSR-supported frontend frameworks for parallel development. If you prefer, you can also use built-in Jinja templates or build your own. The templating system is designed for flexibility and includes a template updating system similar to WordPress.
+- **Headless and Jinja Template Integration**: nxtbn offers both headless architecture and Jinja template integration. You can choose to build headless with any server-side rendering (SSR) framework, such as Next.js, Nuxt.js, or Gatsby. If you prefer a more traditional approach, you can use the built-in Jinja templating system, with built-in templates and a template updating system similar to WordPress.
+
 
 - **Git-Friendly**: Each part of nxtbn—plugins, templates, and the main codebase—can be managed with Git, providing a modular architecture that simplifies version control and collaboration.
 - **Elasticsearch Integration**: Experience fast and efficient search with Elasticsearch, enhancing the user experience for your customers.

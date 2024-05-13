@@ -33,6 +33,6 @@ We are actively seeking sponsors to support the development and enhancement of t
 
 
 ### How to Sponsor:
-To become a sponsor of the NXTBN project, please contact us at sponsor@nxtbn.com with your sponsorship inquiry. Be sure to specify the desired sponsorship tier and duration.
+To become a sponsor of the NXTBN project, please contact us at sponsor@bytenyx.com with your sponsorship inquiry. Be sure to specify the desired sponsorship tier and duration.
 
 Thank you for considering sponsorship of the NXTBN project. Together, we can shape the future of native commerce for the next billion users!

@@ -87,16 +87,11 @@ It depends on your business needs. You can integrate nxtbn's API with your front
 Nxtbn is designed to support a variety of e-commerce models. You can sell physical products with inventory and stock management, digital products with secure download links, and services with subscription-based or one-time payment options.
 ### 3. Can I use my preferred frontend technology with nxtbn?
 Yes, nxtbn doesn't enforce a specific frontend technology. You can use Django templates, React, Vue, or any other framework you prefer. This flexibility allows you to choose the frontend that best suits your project.
-### 6. How do I get support or report a security issue?
-For support or general feedback, please email us at [feedback@bytenyx.com](mailto:feedback@bytenyx.com). If you find a security issue, report it through our secure channel or email us at [security@bytenyx.com](mailto:security@bytenyx.com). Avoid posting security issues in public forums or GitHub issues.
 
 
 ## 📄 License
 nxtbn is licensed under the [BSD-3 License](https://github.com/nxtbn-com/nxtbn?tab=BSD-3-Clause-1-ov-file),  allowing you to use, modify, and distribute the software freely with appropriate attribution and without additional restrictions.
 
-## 📧 Contact Us
-Need more information or support? Reach out to our team at [support@bytenyx.com](mailto:support@bytenyx.com).
 
----
 
 Thank you for choosing nxtbn. We're excited to be part of your E-commerce journey! 🌈
